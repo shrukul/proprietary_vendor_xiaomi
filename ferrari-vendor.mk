@@ -561,7 +561,49 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libTimeService.so:system/vendor/lib64/libTimeService.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libxml.so:system/vendor/lib64/libxml.so \
-    vendor/xiaomi/ferrari/proprietary/vendor/lib64/hw/flp.default.so:system/vendor/lib64/hw/flp.default.so
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/hw/flp.default.so:system/vendor/lib64/hw/flp.default.so \
+    vendor/xiaomi/ferrari/proprietary/lib/libEGL.so:system/lib/libEGL.so \
+    vendor/xiaomi/ferrari/proprietary/lib/libETC1.so:system/lib/libETC1.so \
+    vendor/xiaomi/ferrari/proprietary/lib/libGLESv1_CM.so:system/lib/libGLESv1_CM.so \
+    vendor/xiaomi/ferrari/proprietary/lib/libGLESv2.so:system/lib/libGLESv2.so \
+    vendor/xiaomi/ferrari/proprietary/lib/libGLESv3.so:system/lib/libGLESv3.so \
+    vendor/xiaomi/ferrari/proprietary/lib/libOpenMAXAL.so:system/lib/libOpenMAXAL.so \
+    vendor/xiaomi/ferrari/proprietary/lib/libOpenSLES.so:system/lib/libOpenSLES.so \
+    vendor/xiaomi/ferrari/proprietary/lib/libvulkan.so:system/lib/libvulkan.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/libEGL.so:system/lib64/libEGL.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/libETC1.so:system/lib64/libETC1.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/libGLESv1_CM.so:system/lib64/libGLESv1_CM.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/libGLESv2.so:system/lib64/libGLESv2.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/libGLESv3.so:system/lib64/libGLESv3.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/libOpenMAXAL.so:system/lib64/libOpenMAXAL.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/libOpenSLES.so:system/lib64/libOpenSLES.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/libvulkan.so:system/lib64/libvulkan.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/a420_pfp.fw:system/vendor/etc/firmware/a420_pfp.fw \
+    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/a420_pm4.fw:system/vendor/etc/firmware/a420_pm4.fw \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/egl/libq3dtools_esx.so:system/vendor/lib/egl/libq3dtools_esx.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/hw/vulkan.msm8916.so:system/vendor/lib/hw/vulkan.msm8916.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/libEGL.so:system/vendor/lib/libEGL.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/libETC1.so:system/vendor/lib/libETC1.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/libGLESv1_CM.so:system/vendor/lib/libGLESv1_CM.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/libGLESv2.so:system/vendor/lib/libGLESv2.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/libGLESv3.so:system/vendor/lib/libGLESv3.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/libOpenMAXAL.so:system/vendor/lib/libOpenMAXAL.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/libOpenSLES.so:system/vendor/lib/libOpenSLES.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/libllvm-qgl.so:system/vendor/lib/libllvm-qgl.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/libvulkan.so:system/vendor/lib/libvulkan.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/egl/libq3dtools_esx.so:system/vendor/lib64/egl/libq3dtools_esx.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/hw/vulkan.msm8916.so:system/vendor/lib64/hw/vulkan.msm8916.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libEGL.so:system/vendor/lib64/libEGL.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libETC1.so:system/vendor/lib64/libETC1.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libGLESv1_CM.so:system/vendor/lib64/libGLESv1_CM.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libGLESv2.so:system/vendor/lib64/libGLESv2.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libGLESv3.so:system/vendor/lib64/libGLESv3.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libOpenMAXAL.so:system/vendor/lib64/libOpenMAXAL.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libOpenSLES.so:system/vendor/lib64/libOpenSLES.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libbccQTI.so:system/vendor/lib64/libbccQTI.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libllvm-qgl.so:system/vendor/lib64/libllvm-qgl.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libvulkan.so:system/vendor/lib64/libvulkan.so \
 
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
