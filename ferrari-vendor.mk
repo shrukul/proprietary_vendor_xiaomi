@@ -27,6 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/xiaomi/ferrari/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/xiaomi/ferrari/proprietary/bin/radish:system/bin/radish \
+    vendor/xiaomi/ferrari/proprietary/bin/readmac:system/bin/readmac \
     vendor/xiaomi/ferrari/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/xiaomi/ferrari/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/xiaomi/ferrari/proprietary/etc/acdbdata/MTP/MTP_WCD9306_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/MTP_WCD9306_Bluetooth_cal.acdb \
@@ -60,8 +61,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/lib/libc2dcolorconvert.so:system/lib/libc2dcolorconvert.so \
     vendor/xiaomi/ferrari/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/xiaomi/ferrari/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
+    vendor/xiaomi/ferrari/proprietary/lib/libqminvapi.so:system/lib/libqminvapi.so \
     vendor/xiaomi/ferrari/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/xiaomi/ferrari/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/libqminvapi.so:system/lib64/libqminvapi.so \
     vendor/xiaomi/ferrari/proprietary/lib64/librilqmiservices.so:system/lib64/librilqmiservices.so \
     vendor/xiaomi/ferrari/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/xiaomi/ferrari/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
