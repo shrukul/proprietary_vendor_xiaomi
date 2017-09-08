@@ -64,8 +64,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/lib/libqminvapi.so:system/lib/libqminvapi.so \
     vendor/xiaomi/ferrari/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/xiaomi/ferrari/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
+    vendor/xiaomi/ferrari/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/xiaomi/ferrari/proprietary/lib64/libqminvapi.so:system/lib64/libqminvapi.so \
     vendor/xiaomi/ferrari/proprietary/lib64/librilqmiservices.so:system/lib64/librilqmiservices.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
     vendor/xiaomi/ferrari/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/xiaomi/ferrari/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/xiaomi/ferrari/proprietary/vendor/etc/diracmobile.config:system/vendor/etc/diracmobile.config \
@@ -541,6 +543,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libsettings.so:system/vendor/lib64/libsettings.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libsmemlog.so:system/vendor/lib64/libsmemlog.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libssd.so:system/vendor/lib64/libssd.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libstlport.so:system/vendor/lib64/libstlport.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
