@@ -514,6 +514,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmm-disp-apis.so:system/vendor/lib64/libmm-disp-apis.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libnetmgr.so:system/vendor/lib64/libnetmgr.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libperipheral_client.so:system/vendor/lib64/libperipheral_client.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libprotobuf-cpp-lpro.so:system/vendor/lib64/libprotobuf-cpp-lpro.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libprotobuf-cpp-preo.so:system/vendor/lib64/libprotobuf-cpp-preo.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libqcci_legacy.so:system/vendor/lib64/libqcci_legacy.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libqdi.so:system/vendor/lib64/libqdi.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libqdp.so:system/vendor/lib64/libqdp.so \
